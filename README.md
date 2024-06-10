@@ -2,7 +2,8 @@
 
 This project is a web application for purchasing airline tickets. It features a Flask-based backend and an HTML/CSS/JavaScript frontend. The application is containerized using Docker and utilizes Alembic for database migrations. The backend is configured to use PostgreSQL.
 
-- [Video Link](#https://drive.google.com/file/d/1n8APcIrjyu6TXcJWEa2QF8-eR_lTGqIZ/view?usp=sharing)
+- [![Video Link]](https://drive.google.com/file/d/1n8APcIrjyu6TXcJWEa2QF8-eR_lTGqIZ/view?usp=sharing)
+
 
 ## Installation
 
