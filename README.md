@@ -3,7 +3,7 @@
 This project is a web application for purchasing airline tickets. It features a Flask-based backend and an HTML/CSS/JavaScript frontend. The application is containerized using Docker and utilizes Alembic for database migrations. The backend is configured to use PostgreSQL.
 
 - [![Video Link]](https://drive.google.com/file/d/1n8APcIrjyu6TXcJWEa2QF8-eR_lTGqIZ/view?usp=sharing)
-![ER Diagram]([resim_url'si](https://github.com/Atacanpo/FinalHomework/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-06-10%20182922.png?raw=true))
+![ER Diagram]((https://github.com/Atacanpo/FinalHomework/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-06-10%20182922.png?raw=true))
 
 
 ## Installation
