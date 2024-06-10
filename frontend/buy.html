@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buy Ticket</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>Buy Ticket</h1>
+    <form id="buyForm">
+        <label for="flight_id">Flight ID:</label>
+        <input type="number" id="flight_id" name="flight_id" required>
+        <label for="passenger_name">Passenger Name:</label>
+        <input type="text" id="passenger_name" name="passenger_name" required>
+        <label for="passenger_email">Passenger Email:</label>
+        <input type="email" id="passenger_email" name="passenger_email" required>
+        <label for="number_of_passengers">Number of Passengers:</label>
+        <input type="number" id="number_of_passengers" name="number_of_passengers" required>
+        <label for="miles_member_id">Miles Member ID (optional):</label>
+        <input type="text" id="miles_member_id" name="miles_member_id">
+        <button type="submit">Buy Ticket</button>
+    </form>
+    <div id="buyResult"></div>
+    <script src="js/buy.js"></script>
+</body>
+</html>
