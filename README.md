@@ -4,15 +4,6 @@ This project is a web application for purchasing airline tickets. It features a 
 
 - [Video Link](#https://drive.google.com/file/d/1n8APcIrjyu6TXcJWEa2QF8-eR_lTGqIZ/view?usp=sharing)
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Database Migration](#database-migration)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 ### Prerequisites
@@ -80,6 +71,4 @@ This project is a web application for purchasing airline tickets. It features a 
     ```sh
     docker run -p 5000:5000 airline-ticket-app
     ```
-
-## Project Structure
 
